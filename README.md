@@ -1,6 +1,5 @@
 # Blocklight - test builds
 
-A calm block puzzle game, in early testing. Free, no ads.
 
 ## Get it on Android
 **[Download the latest build](https://github.com/JayKatra/block-game-releases/releases/latest/download/block-game.apk)**
@@ -12,5 +11,3 @@ A calm block puzzle game, in early testing. Free, no ads.
 4. Tap **Install**. If Google Play Protect warns about an unknown app, tap **More details > Install anyway**.
 
 To update, install a newer build the same way. Your progress is kept.
-
-iPhone isn't available yet.
